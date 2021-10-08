@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/felcity-website/static/css/main.a0507fd7.chunk.css",
+    "main.js": "/felcity-website/static/js/main.9a89e356.chunk.js",
+    "main.js.map": "/felcity-website/static/js/main.9a89e356.chunk.js.map",
+    "runtime-main.js": "/felcity-website/static/js/runtime-main.70fdd923.js",
+    "runtime-main.js.map": "/felcity-website/static/js/runtime-main.70fdd923.js.map",
+    "static/js/2.ae59bc00.chunk.js": "/felcity-website/static/js/2.ae59bc00.chunk.js",
+    "static/js/2.ae59bc00.chunk.js.map": "/felcity-website/static/js/2.ae59bc00.chunk.js.map",
+    "index.html": "/felcity-website/index.html",
+    "static/css/main.a0507fd7.chunk.css.map": "/felcity-website/static/css/main.a0507fd7.chunk.css.map",
+    "static/js/2.ae59bc00.chunk.js.LICENSE.txt": "/felcity-website/static/js/2.ae59bc00.chunk.js.LICENSE.txt",
+    "static/media/about_img.d39dad55.jpg": "/felcity-website/static/media/about_img.d39dad55.jpg",
+    "static/media/banner.c6721372.jpg": "/felcity-website/static/media/banner.c6721372.jpg",
+    "static/media/img1.2aff633f.jpg": "/felcity-website/static/media/img1.2aff633f.jpg",
+    "static/media/img2.508a98af.jpg": "/felcity-website/static/media/img2.508a98af.jpg",
+    "static/media/img3.427ad1fa.jpg": "/felcity-website/static/media/img3.427ad1fa.jpg",
+    "static/media/img4.c0b3935d.jpg": "/felcity-website/static/media/img4.c0b3935d.jpg",
+    "static/media/tes_bg.d16e6a4c.jpg": "/felcity-website/static/media/tes_bg.d16e6a4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70fdd923.js",
+    "static/js/2.ae59bc00.chunk.js",
+    "static/css/main.a0507fd7.chunk.css",
+    "static/js/main.9a89e356.chunk.js"
+  ]
+}
